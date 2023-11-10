@@ -1,0 +1,122 @@
+/* Starting part */
+
+body {
+    width: 1000px;
+    margin: auto;
+    background-color: #F8F6F4;
+    font-size: large;
+}
+
+#container {
+    background-color: #DBDFEA;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#heading {
+    text-align: center;
+    background-color: #96B6C5;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* All the CO color coded */
+#co1 {
+    background-color: #C6F1D6;
+}
+
+#co2 {
+    background-color: #E0F5B9;
+}
+
+#co3 {
+    background-color: #FFBA92;
+}
+
+#co4 {
+    background-color: #FF8080;
+}
+
+/* General block styles */
+.topic {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    background-color: #ADC4CE;
+    border-radius: 10px;
+}
+
+h3 {
+    background-color: #96B6C5;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p {
+    background-color: #DBDFEA;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+ol,
+ul {
+    background-color: #DBDFEA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid gray;
+    margin: auto;
+    padding: 10px;
+    background-color: #FFEAD2;
+    border-radius: 10px;
+}
+
+
+/* Span Styles */
+.slide {
+    background-color: #CE7BB0;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.cw {
+    background-color: #A7C5EB;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.hw {
+    background-color: #E6B2C6;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.soln {
+    background-color: #BCE29E;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.ass {
+    background-color: #BFA2DB;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.xm {
+    background-color: #F46060;
+    padding: 5px;
+    border-radius: 10px;
+
+}
